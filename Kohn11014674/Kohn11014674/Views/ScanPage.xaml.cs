@@ -26,7 +26,7 @@ namespace Kohn11014674.Views
             int numericValue;
             Device.BeginInvokeOnMainThread(() =>
             {
-                resultString = result.QrcodeFormat.ToString();
+                resultString = result.Text;
                 
             });
             

@@ -8,7 +8,7 @@
             <Frame BackgroundColor="Blue" Padding="25" CornerRadius="0">
                 <Label Text="UserScanner" HorizontalOptions="Center" TextColor="White" FontSize="36"/>
             </Frame>
-            <zxing:ZXingScannerView IsScanning="True" OnScanResult="resultScan"/>
+            <xzing:ZXingScannerView IsScanning="True" OnScanResult="resultScan"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
