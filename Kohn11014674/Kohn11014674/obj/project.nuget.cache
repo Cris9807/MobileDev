@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4v0OXW76C50rxK3mqEyrmyKvy4G7+AXe8Q9Qj2JdjkqmO0TewtBRsH5SNOfUHvN5PI67IqMbXPjwWPuZROqeQ==",
+  "dgSpecHash": "mqrHr3OAcfCl3YghA1dj4m+ods8sPCwV+YQjzGPRStGbQZolNsnQkncvAOrkpQgyLLiH/IvuC/n75XcO8UpSpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crist\\source\\repos\\Kohn11014674\\Kohn11014674\\Kohn11014674\\Kohn11014674.csproj",
+  "projectFilePath": "D:\\MobileDev\\Kohn11014674\\Kohn11014674\\Kohn11014674.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crist\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\crist\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

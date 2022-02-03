@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rvoUBmNKDy7xtw/nFe3W6wYVtCFrlshvWh7xUUPB+Whoqi2PDZ/Ku/NCxYdghg73p8/RQi10fgOu66RKkEF3Ww==",
+  "dgSpecHash": "JKTvaBTfr4UagDrNhPzi0VdBlrHMjASXPd+lLXqpO0/RRlzrRgg3JJ3cjnI0q677JypFU+Wobj/gatpt1nWR2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crist\\source\\repos\\Kohn11014674\\Kohn11014674\\Kohn11014674.Android\\Kohn11014674.Android.csproj",
+  "projectFilePath": "D:\\MobileDev\\Kohn11014674\\Kohn11014674.Android\\Kohn11014674.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crist\\.nuget\\packages\\fastandroidcamera\\2.0.0\\fastandroidcamera.2.0.0.nupkg.sha512",
     "C:\\Users\\crist\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",

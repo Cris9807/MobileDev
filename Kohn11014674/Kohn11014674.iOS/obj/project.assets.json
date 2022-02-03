@@ -1741,11 +1741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\source\\repos\\Kohn11014674\\Kohn11014674\\Kohn11014674.iOS\\Kohn11014674.iOS.csproj",
+      "projectUniqueName": "D:\\MobileDev\\Kohn11014674\\Kohn11014674.iOS\\Kohn11014674.iOS.csproj",
       "projectName": "Kohn11014674.iOS",
-      "projectPath": "C:\\Users\\crist\\source\\repos\\Kohn11014674\\Kohn11014674\\Kohn11014674.iOS\\Kohn11014674.iOS.csproj",
+      "projectPath": "D:\\MobileDev\\Kohn11014674\\Kohn11014674.iOS\\Kohn11014674.iOS.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crist\\source\\repos\\Kohn11014674\\Kohn11014674\\Kohn11014674.iOS\\obj\\",
+      "outputPath": "D:\\MobileDev\\Kohn11014674\\Kohn11014674.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1768,8 +1768,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\crist\\source\\repos\\Kohn11014674\\Kohn11014674\\Kohn11014674\\Kohn11014674.csproj": {
-              "projectPath": "C:\\Users\\crist\\source\\repos\\Kohn11014674\\Kohn11014674\\Kohn11014674\\Kohn11014674.csproj"
+            "D:\\MobileDev\\Kohn11014674\\Kohn11014674\\Kohn11014674.csproj": {
+              "projectPath": "D:\\MobileDev\\Kohn11014674\\Kohn11014674\\Kohn11014674.csproj"
             }
           }
         }

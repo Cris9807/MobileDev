@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "01eIHh4Rudn+UxqYsza3CcMGOKRrZu+x2UQ08GVk+ipYD/CPZIqFrV6bY8eHqBTanp2AseZtBqGmMHkg1sClxw==",
+  "dgSpecHash": "VCvzwHX4U3LlGevG1gBYhvA+hZX7zsdI0EDf3KRm5PX9LZw0LI0WXyJjP935rFCEaeJu/001YAFlhu2pJVv+cg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crist\\source\\repos\\Kohn11014674\\Kohn11014674\\Kohn11014674.iOS\\Kohn11014674.iOS.csproj",
+  "projectFilePath": "D:\\MobileDev\\Kohn11014674\\Kohn11014674.iOS\\Kohn11014674.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crist\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\crist\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

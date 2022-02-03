@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:xzing="clr‐namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
+             xmlns:zxing="clr-namespace:ZXing.Net.Mobile.Forms;assembly=ZXing.Net.Mobile.Forms"
              x:Class="Kohn11014674.Views.ScanPage">
     <ContentPage.Content>
         <StackLayout>
             <Frame BackgroundColor="Blue" Padding="25" CornerRadius="0">
                 <Label Text="UserScanner" HorizontalOptions="Center" TextColor="White" FontSize="36"/>
             </Frame>
-            <xzing:ZXingScannerView IsScanning="True" OnScanResult="resultScan"/>
+            <zxing:ZXingScannerView IsScanning="True" OnScanResult="resultScan"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

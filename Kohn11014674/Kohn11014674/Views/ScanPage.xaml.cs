@@ -9,6 +9,7 @@ using Xamarin.Forms.Xaml;
 
 using Kohn11014674.Services;
 using Kohn11014674.Models;
+using Kohn11014674.ViewModels;
 
 namespace Kohn11014674.Views
 {
@@ -20,7 +21,7 @@ namespace Kohn11014674.Views
             InitializeComponent();
         }
 
-        public void resultScan(ZXing.Result result)
+        public async void resultScan(ZXing.Result result)
         {
             String resultString = "";
             int numericValue;
@@ -30,9 +31,9 @@ namespace Kohn11014674.Views
                 
             });
             
-            if(int.TryParse(resultString, numericValue))
+            if(int.TryParse(resultString, out numericValue))
             {
-                User user = UserDataStore.GetUser(resultString);
+                User user = await UserDataStore.GetUser(resultString);
                 if(user != null)
                 {
                     Shell.Current.GoToAsync($"{nameof(UserDetailPage)}?{nameof(UserDetailViewModel.UserId)}={user.Id}");
